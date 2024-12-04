@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIC")(type "KiCad")(uri "${KIPRJMOD}/MIC.kicad_sym")(options "")(descr ""))
+)
