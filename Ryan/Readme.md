@@ -34,7 +34,7 @@
 
 ## **November 25**
 - **Task:** Fall Break.
-- **Summary:** Utilized the break to reflect on project progress and brainstorm ideas for the final presentation and documentation.
+- **Summary:** Soldered the new PCB design and figured out how to use the SH1106 text display controller. We also integrated all subsystems onto the new PCB and ensured the functionality of everything.
 
 ## **December 2**
 - **Task:** Final demo preparation and debugging.
