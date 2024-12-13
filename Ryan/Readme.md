@@ -14,7 +14,7 @@
 
 ## **October 21**
 - **Task:** PCB testing and debugging.
-- **Summary:** Conducted initial testing of the PCB. Identified issues with the circuits and spent time troubleshooting, documenting problems for future fixes.
+- **Summary:** Conducted initial testing of the PCB. The first version of the PCB cannot be programmed, hence we had to redesign a new PCB version with the EN pin controlled by a button. Identified issues with the circuits and spent time troubleshooting, documenting problems for future fixes.
 
 ## **October 28**
 - **Task:** PCB voice input and output testing.
@@ -22,7 +22,7 @@
 
 ## **November 4**
 - **Task:** Audio basic functionality and PCB reorder.
-- **Summary:** Implemented basic audio functionality while addressing issues with previously ordered PCB components. Reordered parts as necessary and coordinated with team members to ensure alignment.
+- **Summary:** Implemented basic audio functionality while addressing issues with previously ordered PCB components. Reordered the INMP441 microphone and coordinated with team members to ensure alignment.
 
 ## **November 11**
 - **Task:** Advanced audio features and display improvements.
